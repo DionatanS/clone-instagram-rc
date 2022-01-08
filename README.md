@@ -1,6 +1,6 @@
 # clone-instagram-rc
 
-Este projeto é uma simulação de uma loja de tênis mobile utilizada para estudos praticos de react-native com expo, com a intenção de agregar mais conhecimentos desse framework.
+Este projeto é uma simulação da tela de login do instagran utilizada para estudos praticos de react-native com expo, com a intenção de agregar mais conhecimentos desse framework.
 Adcionado uma validação estatica com useState().
 
 email: dionatannsilvaa@gmail.com 
